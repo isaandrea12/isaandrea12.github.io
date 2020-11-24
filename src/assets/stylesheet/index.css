@@ -34,15 +34,21 @@ body {
 
 .link-img{
     width: 200px;
-    display: block;
+    /* display: block; */
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 45px;
+    padding-bottom: 235px;
+    padding-top: 235px; 
 }
 
 .separator{
     color: black;
     font-size: 12px;
+}
+
+.flex-container {
+    flex-wrap: nowrap;
+    display: flex;
 }
 
 footer {
@@ -56,7 +62,6 @@ footer {
     background: whitesmoke;
 
 }
-
 
 .hvrbox,
 .hvrbox * {
