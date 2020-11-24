@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+.title {
+    font-size: 24px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding: 60px;
+    text-decoration: none;
+}
+
+.menubar {
+    background: white;
+    padding: 25px 0px 0px 0px;
+}
+
+.menu-links {
+    font-size: 18px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 60px;
+    float: right;
+}
+
+.line {  
+    border: solid black 0.5px;
+}
