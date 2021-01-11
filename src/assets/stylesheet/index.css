@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background: white;
+	background: white;
+	height: 100%;
 }
 
 
@@ -51,7 +52,7 @@ body {
     display: flex;
 }
 
-footer {
+.footer {
     color: black;
     font-size: 12px;
     font-family: 'Courier New', Courier, monospace;
@@ -59,8 +60,7 @@ footer {
     padding: 20px 40px 20px 40px;
     text-decoration: none;
     text-align: right;
-    background: whitesmoke;
-
+	background: whitesmoke;
 }
 
 .hvrbox,
